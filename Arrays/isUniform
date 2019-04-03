@@ -1,0 +1,14 @@
+function isUniform(arr) {
+    var first = arr[0];
+    for (var i = 0; i < arr.length; i++)
+        if (arr[i] !== first) {
+            return false;
+        }
+    return true;
+}
+
+
+isUniform([1,1,1,1]);
+isUniform([2,1,1,1]);
+isUniform(["a", "b", "p"]);
+isUniform(["b", "b", "b"]);
