@@ -1,6 +1,6 @@
 # Learning JavaScript
 
-### Building fluency in JavaSvript fundamentals.
+### Building fluency in JavaScript fundamentals.
 
 
 
