@@ -1,4 +1,6 @@
-# JavaScript
+# Learning JavaScript
 
-This repo contains my JavaScript code.
+### Building fluency in JavaSvript fundamentals.
+
+
 
