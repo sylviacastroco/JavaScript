@@ -1,5 +1,5 @@
 /* 
-Code Challenges: JavaScript Fundamentals by (codecademy.com)
+Code Challenges: JavaScript Fundamentals by codecademy.com
 */
 
 const howOld = (age, year) => {
