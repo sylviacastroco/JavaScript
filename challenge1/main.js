@@ -3,7 +3,6 @@ const howOld = (age, year) => {
 // The following two lines make it so that our function always knows the current year.
     let dateToday = new Date();
     let thisYear = dateToday.getFullYear();
-// It is totally ok if your function used the current year directly!
   
     const yearDifference = year - thisYear
     const newAge = age + yearDifference
