@@ -6,3 +6,4 @@ Building fluency in JavaScript fundamentals.
 - [Team Treehouse](https://teamtreehouse.com)
 - [Codecademy](https://codecademy.com)
 - [Udemy](https://udemy.com)
+- [Wes Bos](https://wesbos.com/courses/)
