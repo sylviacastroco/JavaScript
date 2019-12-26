@@ -1,5 +1,5 @@
 # Books-'N'Stuff
 
-## Building fluency in class syntax and inheritance
+Building fluency in class syntax and inheritance
 
-### Challenge given by CodeCademy.
+Challenge given by CodeCademy.
