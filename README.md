@@ -2,7 +2,7 @@
 
 Building fluency in JavaScript fundamentals.
 
-## Sources 
+### Resources 
 - [Team Treehouse](https://teamtreehouse.com)
 - [Codecademy](https://codecademy.com)
 - [Udemy](https://udemy.com)
