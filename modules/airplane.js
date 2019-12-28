@@ -34,11 +34,7 @@ export function meetsStaffRequirements(availableStaff, requiredStaff) {
   }
 }
 
-export function meetsSpeedRangeRequirements(
-  maxSpeed,
-  minSpeed,
-  requiredSpeedRange
-) {
+function meetsSpeedRangeRequirements(maxSpeed, minSpeed, requiredSpeedRange) {
   let range = maxSpeed - minSpeed;
   if (range > requiredSpeedRange) {
     return true;
@@ -46,3 +42,5 @@ export function meetsSpeedRangeRequirements(
     return false;
   }
 }
+
+export default meetsSpeedRangeRequirements;

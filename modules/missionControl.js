@@ -1,9 +1,9 @@
 import {
   availableAirplanes,
   flightRequirements,
-  meetsStaffRequirements,
-  meetsSpeedRangeRequirements
+  meetsStaffRequirements
 } from './airplane';
+import meetsSpeedRangeRequirements from './airplane';
 
 function displayFuelCapacity() {
   availableAirplanes.forEach(function(element) {
@@ -30,7 +30,7 @@ function displaySpeedRangeStatus() {
   availableAirplanes.forEach(function(element) {
     console.log(
       element.name +
-        'meets speed range requirements: ' +
+        ' meets speed range requirements: ' +
         meetsSpeedRangeRequirements(
           element.maxSpeed,
           element.minSpeed,
